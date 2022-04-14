@@ -29,6 +29,10 @@ button{
     background: blue;
     color: white;
 }
+#btn1:hover{
+ background-color: blue;
+ transition: 5s;
+}
 #btn1{
     background: skyblue;
     border-radius: 5px;
